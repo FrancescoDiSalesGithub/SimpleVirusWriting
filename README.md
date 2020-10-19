@@ -8,3 +8,4 @@ This repository contains basic virus writing such as:
 - logic/time bomb
 
 
+All these viruses are written for the linux enviroment.
