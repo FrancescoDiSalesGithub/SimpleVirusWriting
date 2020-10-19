@@ -8,6 +8,7 @@ int main()
 
     if(imageFile == NULL)
     {
+       printf("FILE NOT FOUND \n");
        return -1;
     }
         
