@@ -13,7 +13,7 @@ int main()
         return -1;
     }
         
-    fwrite(myMessage,sizeof(myMessage),strlen(myMessage),imageFile);
+    fwrite(myMessage,sizeof(*myMessage),strlen(myMessage)-1,imageFile);
     fclose(imageFile);
 
     return 0;
