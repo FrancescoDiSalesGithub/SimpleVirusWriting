@@ -6,6 +6,8 @@ This repository contains basic virus writing such as:
 - forkbomb
 - profondity bomb
 - logic/time bomb
-
+- hide message in a picture
 
 All these viruses are written for the linux enviroment.
+
+
