@@ -1,0 +1,12 @@
+[Unit]
+Description=TimeBomb
+After=network.target
+StartLimitIntervalSec=0
+Type=simple
+Restart=always
+RestartSec=1
+User=myUser
+ExecStart=time.out
+
+[Install]
+WantedBy=multi-user.target
