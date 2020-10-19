@@ -1,0 +1,1 @@
+hexdump -c image.jpeg
