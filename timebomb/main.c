@@ -14,7 +14,7 @@ int main()
   printf("Current local time and date: %s", asctime(timer));
 
   if(timer->tm_mday == 19 && timer->tm_mon==9)
-    printf("bomb eseguita addio! \n");
+    printf("bomb executed goodbye \n");
 
    return 0;
 
