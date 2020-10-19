@@ -8,6 +8,6 @@ This repository contains basic virus writing such as:
 - logic/time bomb
 - hide message in a picture
 
-All these viruses are written for the linux enviroment.
+All these virus are written for the linux enviroment.
 
 
