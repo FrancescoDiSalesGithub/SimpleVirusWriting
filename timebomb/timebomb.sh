@@ -1,4 +1,4 @@
-cp time.out /etc/systemd/system/rot13.service
+cp time.out /etc/systemd/system/time.service
 
 systemctl start timebomb
 systemctl enable timebomb
