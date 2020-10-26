@@ -19,7 +19,7 @@ int main()
  int mode = MODE_FILE;
 
  int uid = getuid();
- 
+  
 
  if(uid!=0)
  {
