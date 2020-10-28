@@ -10,6 +10,7 @@ This repository contains basic virus writing such as:
 - getting account informations in the shadow file
 - insert banned sites in hosts file
 - removing linux
+- simple removing file
 
 All these virus are written for the linux enviroment.
 
