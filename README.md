@@ -8,6 +8,8 @@ This repository contains basic virus writing such as:
 - logic/time bomb
 - hide message in a picture
 - getting account informations in the shadow file
+- insert banned sites in hosts file
+- removing linux
 
 All these virus are written for the linux enviroment.
 
