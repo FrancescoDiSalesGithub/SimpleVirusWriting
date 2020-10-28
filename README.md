@@ -7,6 +7,7 @@ This repository contains basic virus writing such as:
 - profondity bomb
 - logic/time bomb
 - hide message in a picture
+- getting account informations in the shadow file
 
 All these virus are written for the linux enviroment.
 
