@@ -9,6 +9,7 @@ This repository contains basic virus writing such as:
 - hide message in a picture
 - getting account informations in the shadow file
 - insert banned sites in hosts file
+- removing an entry in the hosts file
 - removing linux
 - simple removing file
 
