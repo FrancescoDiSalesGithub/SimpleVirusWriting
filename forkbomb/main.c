@@ -8,5 +8,6 @@ int main()
 	int pid=fork();
   }
 
+	
   return 0;
 }
