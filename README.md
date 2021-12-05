@@ -16,4 +16,13 @@ This repository contains basic virus writing such as:
 
 All these virus are written for the linux enviroment.
 
+# Donation
+
+If you want to support me donate monero coins at:
+44TABHa24tB47FyvRfjUA6ASDiW26WoMXXtFuKrjXDSAP9ybzshbw6ZFeNwUf2UMGL279DfzLeBkzg6PAsZ5AruMRGDUaZx
+
+or scan the qr-code:
+
+![monero wallet address](qrcode)
+
 
