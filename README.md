@@ -21,8 +21,3 @@ All these virus are written for the linux enviroment.
 If you want to support me donate monero coins at:
 `4B9WQivaHfd3miDfPKEfCianocGpBx9d8FXycz2vmNW3aBDVKHgkBd9Gmapt4RBVEpTwnehujsiUBBehUiLvnEHs7VFstCC`
 
-or scan the qr-code:
-
-![monero wallet address](qrcode)
-
-
