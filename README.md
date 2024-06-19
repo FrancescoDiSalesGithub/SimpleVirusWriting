@@ -16,6 +16,13 @@ This repository contains basic virus writing such as:
 
 All these virus are written for the linux enviroment.
 
+
+# How to compile 
+
+For each project just run:
+`make -f makefile`
+
+
 # Donation
 
 If you want to support me donate monero coins at:
